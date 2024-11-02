@@ -1,4 +1,4 @@
-# Template Schnupperlehr-Webseite
+# My Website
 
 Dieses Projekt ist eine Vorlage für deine eigene Webseite, welche du in dieser Schnupperlehre erstellen kannst.
 Die Vorlage beinhaltet eine Hauptseite mit einem Menü, welches dir hilft, verschiedene Seiten zu navigieren.
